@@ -22,7 +22,7 @@ The Grocery Store Management System is a web-based application that enables groc
 
 ## Installation
 
-1. Clone the repository: git clone https://github.com/ankitrajput77/grocery_store_webapp.git
+1. Clone the repository: git clone https://github.com/akarshit9314/grocery_store_webapp.git
 2. Navigate to the project directory
 3. Install the required dependencies: pip install -r requirements.txt
 4. Set up the SQL database.
